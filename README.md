@@ -18,7 +18,7 @@ This study explores the intersection of climate change and public health in Guat
 The analysis integrated high-dimensional datasets from distinct sources:
 * **Health Outcomes:** Stunting (Height-for-Age), Wasting (Weight-for-Height), and Underweight status from **DHS Surveys** & IHME.
 * **Climate Data:**
-    * **Temperature:** World Bank Climate Change Knowledge Portal ($^\circ$C).
+    * **Temperature:** World Bank Climate Change Knowledge Portal
     * **Drought:** FLDAS/USGS Soil Moisture content ($m^3/m^3$) used as a proxy for agricultural drought.
 * **Controls:** Socioeconomic indices including maternal education, wealth index, and sanitation access from **DHS Surveys**. 
 
