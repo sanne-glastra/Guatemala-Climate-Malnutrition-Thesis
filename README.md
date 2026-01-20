@@ -31,17 +31,15 @@ The study employed a two-stage statistical framework:
 ## 🔍 Key Findings
 
 ### 1. Drought & Stunting (The Highlands Link)
-* **The Finding:** A reduction in annual soil moisture (drought) coincides with a significant increase in stunting prevalence. [cite_start]This relationship was found to be **significantly stronger in the Highlands** compared to the Lowlands[cite: 1146, 1187].
-* [cite_start]**Literature Validation:** These results align with local findings in Guatemala (Beveridge et al. 2019) and global studies linking drought to stunting (Shaw et al. 2020; Jankowska et al. 2012; Cooper et al. 2019)[cite: 1284, 1285].
-* **Indicator Sensitivity:** The study confirms that **long-term drought indicators** (Annual Soil Moisture) are better predictors of malnutrition than seasonal indicators, consistent with Cooper et al. (2019) [cite_start][cite: 1288].
+* **The Finding:** A reduction in annual soil moisture (drought) coincides with a significant increase in stunting prevalence.This relationship was found to be **significantly stronger in the Highlands** compared to the Lowlands. 
+* **Indicator Sensitivity:** The study confirms that **long-term drought indicators** (Annual Soil Moisture) are better predictors of malnutrition than seasonal indicators. 
 
 ### 2. Temperature & "Frost" Effects
-* [cite_start]**The Finding:** A decrease in growing season and annual temperature coincided with an *increase* in stunting in the Highlands[cite: 1318].
-* [cite_start]**Interpretation:** While contrary to heat-stress hypotheses, this supports the "Frost" hypothesis found in high-altitude literature (Randell et al. 2020), suggesting that cold snaps and frost events in the Highlands may be damaging crop yields and driving food insecurity[cite: 1318].
+* **The Finding:** A decrease in growing season and annual temperature coincided with an *increase* in stunting in the Highlands. 
 
 ### 3. Ranking Risk Factors (Random Forest)
-* **Socioeconomics Context:** While climate is a driver, the Random Forest model highlighted that socioeconomic factors remain dominant. [cite_start]**Maternal Height** was the top predictor for stunting, and **Poor Wealth Index** was critical for underweight status[cite: 1250].
-* [cite_start]**Underweight Nuance:** Climate had a low effect size for underweight malnutrition, suggesting that economic factors (wealth/poverty) are more immediate drivers for weight outcomes than climate shocks[cite: 1308].
+* **Socioeconomics Context:** While climate is a driver, the Random Forest model highlighted that socioeconomic factors remain dominant. **Maternal Height** was the top predictor for stunting, and **Poor Wealth Index** was critical for underweight status. 
+* **Underweight Nuance:** Climate had a low effect size for underweight malnutrition, suggesting that economic factors (wealth/poverty) are more immediate drivers for weight outcomes than climate shocks. 
 
 ## 💡 Overall Conclusion
 Of the many complex drivers of malnutrition in Guatemala, **drought is a critical determinant**, particularly for **chronic malnutrition (stunting) in the Highlands**. However, climate acts within a broader structure of inequality: socioeconomic interventions addressing poverty and maternal health remain essential alongside climate adaptation strategies.
