@@ -20,7 +20,7 @@ The analysis integrated high-dimensional datasets from distinct sources:
 * **Climate Data:**
     * **Temperature:** World Bank Climate Change Knowledge Portal ($^\circ$C).
     * **Drought:** FLDAS/USGS Soil Moisture content ($m^3/m^3$) used as a proxy for agricultural drought.
-* **Controls:** Socioeconomic indices including maternal education, wealth index, and sanitation access.
+* **Controls:** Socioeconomic indices including maternal education, wealth index, and sanitation access from **DHS Surveys**. 
 
 ## 🛠️ Methodology
 The study employed a two-stage statistical framework:
