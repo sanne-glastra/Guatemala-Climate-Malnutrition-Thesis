@@ -31,7 +31,7 @@ The study employed a two-stage statistical framework:
 ## 🔍 Key Findings
 
 ### 1. Drought & Stunting (The Highlands Link)
-* **The Finding:** A reduction in annual soil moisture (drought) coincides with a significant increase in stunting prevalence.This relationship was found to be **significantly stronger in the Highlands** compared to the Lowlands. 
+* **The Finding:** A reduction in annual soil moisture (drought) coincides with a statistically and practically significant increase in stunting prevalence.This relationship was found to be **significantly stronger in the Highlands** compared to the Lowlands. 
 * **Indicator Sensitivity:** The study confirms that **long-term drought indicators** (Annual Soil Moisture) are better predictors of malnutrition than seasonal indicators. 
 
 ### 2. Temperature & "Frost" Effects
